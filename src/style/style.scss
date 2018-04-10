@@ -1,6 +1,12 @@
 
+@import "./modules/base";
+@import "./modules/typography";
 
-body {
-    background: orangered;
-    // background-image: url('../img/contact-large.jpg');
-}
+@import "./modules/sidebar";
+@import "./modules/header";
+@import "./modules/realtors";
+@import "./modules/features";
+@import "./modules/story";
+@import "./modules/homes";
+@import "./modules/gallery";
+@import "./modules/footer";
